@@ -1,4 +1,4 @@
 # lab3
 miniShell
 parseFunction
-excuteFunction
+excute Function
