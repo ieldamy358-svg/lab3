@@ -1,0 +1,20 @@
+total 64
+drwxr-xr-x@  9 apple  staff    288 Oct 23 23:29 .
+drwx------+ 45 apple  staff   1440 Oct 23 16:55 ..
+drwxr-xr-x@  4 apple  staff    128 Oct 23 19:32 .vscode
+-rw-r--r--@  1 apple  staff    228 Oct 23 23:27 Makefile
+-rwxr-xr-x@  1 apple  staff  13651 Oct 23 23:27 command.cc
+-rwxr-xr-x@  1 apple  staff   1343 Oct 23 23:27 command.h
+-rw-r--r--   1 apple  staff      0 Oct 23 23:29 output.txt
+-rwxr-xr-x@  1 apple  staff   2436 Oct 23 19:15 tokenizer.cc
+-rwxr-xr-x@  1 apple  staff    637 Oct 23 23:27 tokenizer.h
+total 72
+drwxr-xr-x@  9 apple  staff    288 Oct 23 23:29 .
+drwx------+ 45 apple  staff   1440 Oct 23 16:55 ..
+drwxr-xr-x@  4 apple  staff    128 Oct 23 19:32 .vscode
+-rw-r--r--@  1 apple  staff    228 Oct 23 23:27 Makefile
+-rwxr-xr-x@  1 apple  staff  13651 Oct 23 23:27 command.cc
+-rwxr-xr-x@  1 apple  staff   1343 Oct 23 23:27 command.h
+-rw-r--r--   1 apple  staff    520 Oct 23 23:29 output.txt
+-rwxr-xr-x@  1 apple  staff   2436 Oct 23 19:15 tokenizer.cc
+-rwxr-xr-x@  1 apple  staff    637 Oct 23 23:27 tokenizer.h
